@@ -1,0 +1,55 @@
+baseURL = 'https://synjadex.github.io/'
+locale = 'zh-cn'
+title = 'SynJade的博客'
+theme = 'FixIt'
+defaultContentLanguage = 'zh-cn'
+
+
+[markup]
+_merge = "shallow"
+
+[outputs]
+_merge = "shallow"
+
+[taxonomies]
+_merge = "shallow"
+
+[params]
+  # 站点描述（显示在首页和 SEO meta 中）
+  description = "记录技术与生活"
+
+  # 默认颜色模式：auto / light / dark
+  defaultTheme = "auto"
+
+  # 作者信息
+  [params.author]
+   name = "SynJade"
+   email = "synjadex@outlook.com"
+
+  [params.home.profile]
+    enable = true
+    avatarURL = "/img/avatar.jpg"
+    title = "SynJade"
+    subtitle = "知识与你分享"
+    social = true
+
+  [params.social]
+    GitHub = "synjadex"
+
+    # 页脚
+  [params.footer]
+    enable = true
+    copyright = "© 2026 SynJadex"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "博客"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags/"
+    weight = 2

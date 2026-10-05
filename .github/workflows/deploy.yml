@@ -36,21 +36,31 @@ jobs:
           # 使用 extended 版本（支持 SCSS/SASS）
           extended: true
       
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
+      # 3. 安装 Dart Sass（官方二进制，Hugo 必须使用此方式）
       - name: Install Dart Sass
-        run: npm install -g sass
+        run: |
+          DART_SASS_VERSION=1.105.0
+          echo "Installing Dart Sass ${DART_SASS_VERSION}..."
+          curl -sfL --output-dir "${RUNNER_TEMP}" -O \
+            "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          mkdir -p "${HOME}/.local"
+          tar -C "${HOME}/.local" -xf \
+            "${RUNNER_TEMP}/dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
 
-      # 3. 构建 Hugo 网站
+      # 4. 验证工具版本（可选，方便排错）
+      - name: Verify tools
+        run: |
+          sass --version
+          hugo version
+
+      # 5. 构建 Hugo 网站
       - name: Build
         # --gc 清理未使用缓存
         # --minify 压缩 HTML/CSS/JS，减少页面体积
         run: hugo --gc --minify
 
-      # 4. 部署到 GitHub Pages
+      # 6. 部署到 GitHub Pages
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
         with:

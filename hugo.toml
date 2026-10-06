@@ -13,7 +13,7 @@
 # Website title.
 title = "SynJade的博客"
 # Hostname (and path) to the root.
-baseURL = "https://synjadex.github.io/"
+baseURL = "https://synjadex.top/"
 # Theme list.
 # Enable in your site config file.
 theme = ["FixIt"]

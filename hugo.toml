@@ -1539,7 +1539,7 @@ only_first_page = false
 # Gravatar email for preferred avatar in home page.
 gravatar_email = ""
 # URL of avatar shown in home page, default is author's avatar.
-avatar_url = "/images/avatar.avif"
+avatar_url = "/images/avatar.jpg"
 # Identifier of avatar menu link.
 avatar_menu = ""
 # Title shown in home page (HTML format is supported).

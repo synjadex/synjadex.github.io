@@ -98,4 +98,4 @@ Disallow: /
 
 # Claudebot by Anthropic
 User-agent: ClaudeBot
-Disallow: /Sitemap: https://synjadex.github.io/sitemap.xml
+Disallow: /Sitemap: https://synjadex.top/sitemap.xml

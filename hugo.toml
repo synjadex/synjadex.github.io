@@ -678,7 +678,7 @@ end_flag = ""
 name = "SynJade"
 email = "synjadex@outlook.com"
 link = "https://synjadex.top"
-avatar = "/images/avatar.avif"
+avatar = "/images/avatar.jpg"
 
 # Link configuration.
 [params.link]

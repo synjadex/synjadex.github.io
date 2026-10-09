@@ -19,5 +19,5 @@
 ---
 
 > 作者: [SynJade](https://synjadex.top)  
-> URL: https://synjadex.top/friends/  
+> URL: https://www.synjadex.top/friends/  
 

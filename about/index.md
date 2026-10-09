@@ -55,5 +55,5 @@
 ---
 
 > 作者: [SynJade](https://synjadex.top)  
-> URL: https://synjadex.top/about/  
+> URL: https://www.synjadex.top/about/  
 

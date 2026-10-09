@@ -13,7 +13,7 @@
 # Website title.
 title = "SynJade的博客"
 # Hostname (and path) to the root.
-baseURL = "https://synjadex.top/"
+baseURL = "https://www.synjadex.top/"
 # Theme list.
 # Enable in your site config file.
 theme = ["FixIt"]
@@ -1495,13 +1495,13 @@ copyright = true
 # Whether to show the author.
 author = true
 # Site creation year.
-since = ""
+since = "2026"
 # Public network security only in China (HTML format is supported).
 gov = ""
 # ICP info only in China (HTML format is supported).
 icp = ""
 # License info (HTML format is supported).
-license = ""
+license = '<a rel="license external nofollow noopener noreferrer" href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>'
 
 # Whether to show Hugo and theme info.
 [params.footer.powered]
@@ -1511,21 +1511,21 @@ theme_logo = false
 
 # Site creation time.
 [params.footer.site_time]
-enable = false
+enable = true
 animate = true
 icon = "fa-solid fa-heartbeat"
-pre = ""
+pre = "博客已经历"
 # Example: "2021-12-18T16:15:22+08:00"
-value = ""
+value = "2026-5-21T23:31:31+08:00"
 
 # Footer lines order.
 # Available values: ["first", 0-5, "last"]
 [params.footer.order]
-powered = 0
-copyright = 0
-statistics = 0
-visitor = 0
-beian = 0
+powered = 2
+copyright = 1
+statistics = 3
+visitor = 4
+beian = 5
 
 # Archives page configuration (all pages of posts type).
 [params.archives]
@@ -1596,7 +1596,7 @@ gravatar_email = ""
 # URL of avatar shown in home page, default is author's avatar.
 avatar_url = "/images/avatar.jpg"
 # Identifier of avatar menu link.
-avatar_menu = ""
+avatar_menu = "about"
 # Title shown in home page (HTML format is supported).
 title = "SynJade"
 # Subtitle shown in home page (HTML format is supported).
@@ -1908,7 +1908,7 @@ style = ""
 [params.back_to_top]
 enable = true
 # Whether to show the scroll percent indicator around the back to top button.
-scrollpercent = false
+scrollpercent = true
 
 # Reading progress bar.
 [params.reading_progress]
@@ -1918,8 +1918,8 @@ start = "start"
 # Available values: ["top", "bottom"]
 position = "top"
 reversed = false
-light = ""
-dark = ""
+light = "#8581dd"
+dark = "#fff"
 height = "2px"
 
 # Progress bar in the top during page loading.

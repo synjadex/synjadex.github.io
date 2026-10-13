@@ -54,6 +54,6 @@
 
 ---
 
-> 作者: [SynJade](https://synjadex.top)  
+> 作者: [SynJade](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/about/  
 

@@ -110,7 +110,7 @@ title = ""
 weight = 1
 
 [menus.main.params]
-icon = "fa-solid fa-home"
+icon = ""
 
 
 [[menus.main]]
@@ -120,7 +120,7 @@ parent = ""
 pre = ""
 # You can add extra information after the name (HTML format is supported), such as icons.
 post = ""
-name = "文章"
+name = "归档"
 url = "/archives/"
 # Title will be shown when you hover on this menu link.
 title = ""
@@ -134,7 +134,7 @@ class = ""
 # Visible when env var is set: HUGO_PARAMS_MENU_DRAFT=true hugo server
 draft = false
 # Add FontAwesome icon to a specific menu item.
-icon = "fa-solid fa-archive"
+icon = ""
 # Set menu item type.
 # Available values: ["mobile", "desktop"]
 type = ""
@@ -152,7 +152,7 @@ title = ""
 weight = 3
 
 [menus.main.params]
-icon = "fa-solid fa-folder-tree"
+icon = ""
 
 [[menus.main]]
 identifier = "tags"
@@ -165,7 +165,7 @@ title = ""
 weight = 4
 
 [menus.main.params]
-icon = "fa-solid fa-tags"
+icon = ""
 
 
 [[menus.main]]
@@ -179,7 +179,7 @@ title = "笔记"
 weight = 5
 
 [menus.main.params]
-icon = "fa-solid fa-book-open"
+icon = ""
 
 
 [[menus.main]]
@@ -193,7 +193,7 @@ title = "友情链接"
 weight = 6
 
 [menus.main.params]
-icon = "fa-solid fa-users"
+icon = ""
 
 [[menus.main]]
 identifier = "about"
@@ -206,7 +206,7 @@ title = ""
 weight = 7
 
 [menus.main.params]
-icon = "fa-solid fa-info"
+icon = ""
 
 # -------------------------------------------------------------------------------------
 # Related content Configuration
@@ -677,7 +677,7 @@ end_flag = ""
 [params.author]
 name = "SynJade"
 email = "synjadex@outlook.com"
-link = "https://synjadex.top"
+link = "https://www.synjadex.top"
 avatar = "/images/avatar.jpg"
 
 # Link configuration.
@@ -719,7 +719,7 @@ wrapper = true
 mode = "classic"
 # Additional classes for the code block wrapper.
 # Example: "is-collapsed is-expanded line-nos-hidden line-wrapping"
-wrapper_class = ""
+wrapper_class = "is-expanded"
 # The maximum number of lines to show in the code block preview.
 max_shown_lines = 10
 # Whether to show shadow effect for code blocks.
@@ -729,10 +729,10 @@ shadow = "never"
 copyable = true
 # Whether to enable code download button in the code block header.
 # Only available in classic mode.
-downloadable = false
+downloadable = true
 # Whether to enable code fullscreen button in the code block header.
 # Only available in classic mode.
-fullscreen = false
+fullscreen = true
 # Whether to enable line numbers toggle button in the code block header.
 # Only available in classic mode.
 line_nos_toggler = true

@@ -301,19 +301,19 @@ typographer = true
 [markup.goldmark.extensions.extras]
 
 [markup.goldmark.extensions.extras.delete]
-enable = true
+enable = false
 
 [markup.goldmark.extensions.extras.insert]
-enable = true
+enable = false
 
 [markup.goldmark.extensions.extras.mark]
-enable = true
+enable = false
 
 [markup.goldmark.extensions.extras.subscript]
-enable = true
+enable = false
 
 [markup.goldmark.extensions.extras.superscript]
-enable = true
+enable = false
 
 # See: [Mathematics](https://gohugo.io/content-management/mathematics/)
 [markup.goldmark.extensions.passthrough]

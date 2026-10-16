@@ -53,7 +53,7 @@ int* pf = &f(); //报错，非引用类型的函数返回值也是右值
 
 > 在[C++官方草案](https://eel.is/c++draft/basic.lval)是这样分的：
 >
-> ![值类别](https://img.aquazin.top/_posts/2026-06-05-cpp-lvalue-rvalue-reference/imgs/value_category.png)
+> ![值类别](https://img.synjadex.top/public/posts/2026-06-05-cpp-lvalue-rvalue-reference/value_category.png)
 >
 >
 >   A **glvalue** is an expression whose evaluation determines the identity of an object, function, non-static data member, or a direct base class relationship

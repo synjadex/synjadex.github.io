@@ -32,9 +32,7 @@ repost:
 - 2个黑键为一组的那组里左边第一个黑键的左边对应的白键就是C
 - 然后依次是D-E-F-G-A-B->C循环
 
-![](https://img.aquazin.top/_posts/2026-06-22-music-theory-intro/imgs/keys.png)
-
-
+![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/keys.png)
 
 # 2. 音程
 
@@ -42,7 +40,7 @@ repost:
 
 如何计算度数：
 
-![](https://img.aquazin.top/_posts/2026-06-22-music-theory-intro/imgs/interval.png)
+![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/interval.png)
 
 - 都是白键的情况下，两个键之间（包括两端的键）包含了几个白键就是多少度
 - 例如上面那张图是A->E，就是5度
@@ -57,7 +55,7 @@ repost:
 
 就像下图：
 
-![](https://img.aquazin.top/_posts/2026-06-22-music-theory-intro/imgs/semitone.png)
+![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/semitone.png)
 
 常见的音程分类如下：大三度和小三度非常常用
 
@@ -77,8 +75,7 @@ repost:
 
 比如下图：
 
-![](https://img.aquazin.top/2026-06-22-music-theory-intro/imgs/chord3.png)![](https://img.aquazin.top/2026-06-22-music-theory-intro/imgs/chord7.png)![](https://img.aquazin.top/2026-06-22-music-theory-intro/imgs/chord9.png).......
-
+![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/chord3.png)![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/chord7.png)![](https://img.synjadex.top/public/posts/2026-06-22-music-theory-intro/chord9.png).......
 - 还可继续往上叠加，最多**十三和弦。**
 
 ‍

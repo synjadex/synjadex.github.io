@@ -33,7 +33,7 @@ endmodule
 
 上面的Verilog代码模块对应的就是下面这个方框里的电路，这个方框就是我们定义的半加器模块。
 
-![](https://img.aquazin.top/_posts/2026-06-21-fpga-verilog-intro/imgs/half_adder.webp)
+![](https://img.synjadex.top/public/posts/2026-06-21-fpga-verilog-intro/half_adder.webp)
 
 在half_adder的括号里定义的a,b,sum,cy就是端口，可以看到相当于芯片的引脚。
 

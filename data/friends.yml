@@ -1,0 +1,13 @@
+# - nickname: 标题
+#   avatar: 头像
+#   url: 站点
+#   description: 描述 &#10 表示换行
+- nickname: SynJade
+  avatar: https://synjadex.top/images/avatar.jpg
+  url: https://synjadex.top
+  description: 知识与你分享
+
+- nickname: Aquazin
+  avatar: https://aquazin.top/img/profile.avif
+  url: https://aquazin.top
+  description: 知识与你分享

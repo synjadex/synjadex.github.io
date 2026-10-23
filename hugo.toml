@@ -11,7 +11,7 @@
 # -------------------------------------------------------------------------------------
 
 # Website title.
-title = "SynJade的博客"
+title = "SynJadeX::Blog"
 # Hostname (and path) to the root.
 baseURL = "https://www.synjadex.top/"
 # Theme list.
@@ -675,7 +675,7 @@ end_flag = ""
 #    With the `author = "authors"` taxonomy registered, this also creates
 #    `/authors/<key>/` archive pages via the generic taxonomy templates.
 [params.author]
-name = "SynJade"
+name = "SynJadeX"
 email = "synjadex@outlook.com"
 link = "https://www.synjadex.top"
 avatar = "/images/avatar.jpg"

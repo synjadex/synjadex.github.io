@@ -259,6 +259,6 @@ tags:
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-08-14-blog-content-classify-rule/  
 

@@ -326,6 +326,6 @@ target_link_libraries(my_lib
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-08-06-cmake-primer/  
 

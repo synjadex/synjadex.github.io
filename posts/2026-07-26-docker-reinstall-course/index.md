@@ -11,6 +11,6 @@ Docker的官网：https://docker.com/
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-07-26-docker-reinstall-course/  
 

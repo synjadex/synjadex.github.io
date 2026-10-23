@@ -59,6 +59,6 @@ weak_ptr一般和shared_ptr搭配使用，用于避免shared_ptr的引用循环�
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-06-17-cpp-smart-pointer/  
 

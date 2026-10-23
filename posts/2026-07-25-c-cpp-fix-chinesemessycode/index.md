@@ -96,6 +96,6 @@ add_executable(${PROJECT_NAME} main.c)
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-07-25-c-cpp-fix-chinesemessycode/  
 

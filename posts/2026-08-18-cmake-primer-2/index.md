@@ -27,6 +27,6 @@ list(APPEND CMAKE_PREFIX_PATH "/path/to/your/library")
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-08-18-cmake-primer-2/  
 

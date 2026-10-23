@@ -185,6 +185,6 @@ David Mazières, 2021 - [C++ 值类别和 decltype 解读](https://www.scs.stanf
 
 ---
 
-> 作者: [SynJade](https://www.synjadex.top)  
+> 作者: [SynJadeX](https://www.synjadex.top)  
 > URL: https://www.synjadex.top/posts/2026-06-05-cpp-lvalue-rvalue-reference/  
 

@@ -8,7 +8,7 @@ keywords:
   - 'Hugo FixIt'
   - 'friends template'
   - 友情链接
-comment: false
+comment: true
 # friend_scheme: mahjong   # card layout: mahjong | domino | note
 # friend_sort: weight      # sort field: weight (desc) | nickname (weight desc first, then alphabetical)
 # friend_link_check: false # [experimental] build-time dead link detection (dev mode only)

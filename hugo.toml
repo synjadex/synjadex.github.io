@@ -1096,7 +1096,7 @@ Mix = false
 
 # Comment configuration.
 [params.comment]
-enable = false
+enable = true
 
 # Artalk comment configuration.
 # See: [Artalk](https://artalk.js.org/)
@@ -1194,9 +1194,9 @@ comment_count = true
 # Waline comment configuration.
 # See: [Waline](https://waline.js.org)
 [params.comment.waline]
-enable = false
-server_url = ""
-pageview = false
+enable = true
+server_url = "https://comments.synjadex.top"
+pageview = true
 emoji = [ "//unpkg.com/@waline/emojis@1.1.0/weibo" ]
 meta = [
   "nick",
@@ -1209,7 +1209,7 @@ word_limit = 0
 page_size = 10
 image_uploader = false
 highlighter = false
-comment = false
+comment = true
 tex_renderer = false
 search = false
 recaptcha_v3_key = ""

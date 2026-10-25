@@ -1214,7 +1214,7 @@ tex_renderer = false
 search = false
 recaptcha_v3_key = ""
 turnstile_key = ""
-reaction = false
+reaction = true
 
 # Facebook comment configuration.
 # See: [Facebook Comments](https://developers.facebook.com/docs/plugins/comments)
